@@ -1,0 +1,2 @@
+# altynbai_microservices
+altynbai microservices repository
